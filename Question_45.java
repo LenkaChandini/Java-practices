@@ -1,11 +1,10 @@
 
 
-/* Wirte a program to check whether the given number is a Disarium or not. */
+/* Wirte a program to check whether the given number is a arm strong number or not. */
 
-
-import java.util.Scanner;
-
-class Question_44 {
+import java.util.*;
+public class Question_45 {
+    
     public static int count(int n){
         int count = 0;
         while(n!=0){
@@ -27,7 +26,7 @@ class Question_44 {
         int sum = 0, exp = count(n);
         for(int j = n ; j != 0; j /= 10){
             int last = j % 10;
-            sum = sum + power(last, exp--);
+            sum = sum + power(last, exp);
         }
 
         return sum == n;
@@ -40,3 +39,4 @@ class Question_44 {
         System.out.println(isDisarium(n) ? n + " is Disarium " : n + " is not Disarium");
     }
 }
+
