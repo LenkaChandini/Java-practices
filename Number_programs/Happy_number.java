@@ -1,3 +1,5 @@
+/* wirte a program to check given number is happy number or not. */
+
 
 import java.util.Scanner;
 

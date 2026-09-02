@@ -6,6 +6,132 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseArrayWithUsingNewArray",
+            "request": "launch",
+            "mainClass": "Codes_of_Arr.ReverseArrayWithUsingNewArray",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "MergeTwoArray",
+            "request": "launch",
+            "mainClass": "Codes_of_Arrays.MergeTwoArray",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "MergeTwoArray",
+            "request": "launch",
+            "mainClass": "Arrays_code.MergeTwoArray",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "Patttern",
+            "request": "launch",
+            "mainClass": "Patttern",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "Revers",
+            "request": "launch",
+            "mainClass": "Revers",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "ReversArrays",
+            "request": "launch",
+            "mainClass": "ReversArrays",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "imp_3",
+            "request": "launch",
+            "mainClass": "Arrays_code.imp_3",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "Imp_1",
+            "request": "launch",
+            "mainClass": "Arrays_code.Imp_1",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_9",
+            "request": "launch",
+            "mainClass": "Pattern_9",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_8",
+            "request": "launch",
+            "mainClass": "Pattern_8",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_7",
+            "request": "launch",
+            "mainClass": "Pattern_7",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_6",
+            "request": "launch",
+            "mainClass": "Pattern_6",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_5",
+            "request": "launch",
+            "mainClass": "Pattern_5",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_4",
+            "request": "launch",
+            "mainClass": "Pattern_4",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_3",
+            "request": "launch",
+            "mainClass": "Pattern_3",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "Arrays_code.ReverseArray",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "Arrays.ReverseArray",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "DecimalToOatal",
+            "request": "launch",
+            "mainClass": "DecimalToOatal",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
             "name": "Question_49",
             "request": "launch",
             "mainClass": "Question_49",
