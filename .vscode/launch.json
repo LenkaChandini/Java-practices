@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Inheritance",
+            "request": "launch",
+            "mainClass": "Inheritance",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
             "name": "ReverseArrayWithUsingNewArray",
             "request": "launch",
             "mainClass": "Codes_of_Arr.ReverseArrayWithUsingNewArray",
