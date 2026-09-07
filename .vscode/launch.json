@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ThisOf_Empolyee",
+            "request": "launch",
+            "mainClass": "ThisOf_Empolyee",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "SecondLargestElement",
+            "request": "launch",
+            "mainClass": "Arrays.SecondLargestElement",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "LargestElement",
+            "request": "launch",
+            "mainClass": "Arrays.LargestElement",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance_MutilLevel",
+            "request": "launch",
+            "mainClass": "Inheritance_MutilLevel",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
             "name": "Inheritance",
             "request": "launch",
             "mainClass": "Inheritance",
