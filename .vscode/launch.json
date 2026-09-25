@@ -6,6 +6,132 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SelectioSort",
+            "request": "launch",
+            "mainClass": "Codes_of_Arr.SelectioSort",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "Prg_2_lowercase_without_usi_toLowercase",
+            "request": "launch",
+            "mainClass": "String_programs.Prg_2_lowercase_without_usi_toLowercase",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "Testing",
+            "request": "launch",
+            "mainClass": "Testing",
+            "projectName": "Section2"
+        },
+        {
+            "type": "java",
+            "name": "Program_3",
+            "request": "launch",
+            "mainClass": "String_programs.Program_3",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "Program_3",
+            "request": "launch",
+            "mainClass": "Program_3",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "Prg_2_lowercase_without_usi_toLowercase",
+            "request": "launch",
+            "mainClass": "Prg_2_lowercase_without_usi_toLowercase",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "Program_1_uppercase_without_using_toupcs",
+            "request": "launch",
+            "mainClass": "String_programs.Program_1_uppercase_without_using_toupcs",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "Test_animal_Dog",
+            "request": "launch",
+            "mainClass": "Test_animal_Dog",
+            "projectName": "Section2"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicate",
+            "request": "launch",
+            "mainClass": "Codes_of_Arr.RemoveDuplicate",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Section2.Relationship.Has_a.Test",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "RightRotateArrays",
+            "request": "launch",
+            "mainClass": "RightRotateArrays",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "MinSumOf2Num",
+            "request": "launch",
+            "mainClass": "MinSumOf2Num",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "Codes_of_Arrays.Program",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "Sample4",
+            "request": "launch",
+            "mainClass": "Section2.Yourpackage.Sample4",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "Sample2",
+            "request": "launch",
+            "mainClass": "Section2.Mypackage.Sample2",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "Sample3",
+            "request": "launch",
+            "mainClass": "Section2.Yourpackage.Sample3",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "Sample1",
+            "request": "launch",
+            "mainClass": "Section2.Mypackage.Sample1",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
+            "name": "UsingSort_printPositivenum",
+            "request": "launch",
+            "mainClass": "Codes_of_Arr.UsingSort_printPositivenum",
+            "projectName": "Java_practice_173497b6"
+        },
+        {
+            "type": "java",
             "name": "ThisOf_Empolyee",
             "request": "launch",
             "mainClass": "ThisOf_Empolyee",
